@@ -14,7 +14,7 @@ USD models for NVIDIA Isaac Sim
 ## Example
 1. Clone this repository.
     ```
-    git clone git@github.com:TokyoRobotics/torobo_usd_models.git
+    git clone https://github.com/TokyoRobotics/torobo_usd_models.git
     ```
 
 2. Open Isaac Sim from Omniverse Launcher.
